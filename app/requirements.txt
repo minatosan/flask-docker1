@@ -1,0 +1,5 @@
+Flask
+Flask-sqlalchemy
+pillow
+Flask-migrate
+requests
