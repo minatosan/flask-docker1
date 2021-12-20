@@ -3,3 +3,4 @@ Flask-sqlalchemy
 pillow
 Flask-migrate
 requests
+WTForms
